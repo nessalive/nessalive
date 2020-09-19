@@ -7,12 +7,12 @@
 #### gosta-se e faz ❤️🌻
 - 📓 Poemas
 - 🍰 Comida
-- 🐈‍⬛ Gatos
+- 🐈 Gatos
 - 🥤 Sucos
 - 🎧 Musicas 
 - ☕ videos de cafés
 
 ### objetivos de emprego 👩‍💻
 
--[] Desenvolvedora Front End
--[] Design
+-[]Desenvolvedora Front End
+-[]Design
