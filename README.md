@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá Humanos Me Chamo Vanessa Oliveira  🌻
 
-<!--
-**nessalive/nessalive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://https://www.linkedin.com/in/vanessa-oliveira-0036a4154/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vanessa%20Oliveira%20-yellow?style=flat-square&logo=linkedin"></a>
+<a href="https://https://instagram.com/nessa_liver"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nessa_liver-yellow?style=flat-square&logo=instagram"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### gosta-se e faz ❤️🌻
+- 📓 Poemas
+- 🍰 Comida
+- 🐈‍⬛ Gatos
+- 🥤 Sucos
+- 🎧 Musicas 
+- ☕ videos de cafés
+
+### objetivos de emprego 👩‍💻
+
+-[] Desenvolvedora Front End
+-[] Design
