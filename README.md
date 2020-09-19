@@ -5,14 +5,19 @@
 
 
 #### gosta-se e faz ❤️🌻
-- 📓 Poemas
+- 📓 Textos
 - 🍰 Comida
 - 🐈 Gatos
 - 🥤 Sucos
 - 🎧 Musicas 
+- 🎬 Filmes
+- 🎮 Jogos
 - ☕ videos de cafés
 
 ### objetivos de emprego 👩‍💻
 
--[]Desenvolvedora Front End
--[]Design
+- [] Desenvolvedora Front End
+- [] Design
+- [] Escritora
+- [] Fotografa
+
