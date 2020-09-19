@@ -4,7 +4,7 @@
 <a href="https://https://instagram.com/nessa_liver"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nessa_liver-yellow?style=flat-square&logo=instagram"></a>
 
 
-#### gosta-se e faz ❤️🌻
+#### ❤️ Gosta-se e Faz 🌻
 - 📓 Textos
 - 🍰 Comida
 - 🐈 Gatos
@@ -14,7 +14,7 @@
 - 🎮 Jogos
 - ☕ videos de cafés
 
-### objetivos de emprego 👩‍💻
+### ❤️ Objetivos de Emprego 👩‍💻
 
 - [ ] Desenvolvedora Front End
 - [ ] Design
