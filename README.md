@@ -16,8 +16,9 @@
 
 ### objetivos de emprego 👩‍💻
 
-- [] Desenvolvedora Front End
-- [] Design
-- [] Escritora
-- [] Fotografa
+- [ ] Desenvolvedora Front End
+- [ ] Design
+- [ ] Escritora
+- [ ] Fotografa
 
+##Quero cativar-te com minha arte.
