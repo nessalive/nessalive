@@ -20,6 +20,6 @@
 - [ ] Design
 - [ ] Escritora
 - [ ] Fotografa
-- [ ] barista
+- [ ] Barista
 
 ## Quero cativar-te com minha arte.
