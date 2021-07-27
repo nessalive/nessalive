@@ -16,8 +16,9 @@
 
 ### ❤️ Objetivos de Emprego 👩‍💻
 
+- [x] Desenvolvedora IA (atualmnete)
 - [ ] Desenvolvedora Front End
-- [ ] Design
+- [x] Design ( Design write)
 - [ ] Escritora
 - [ ] Fotografa
 - [ ] Barista
