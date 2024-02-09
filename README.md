@@ -16,8 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nessalive&show_icons=true&locale=en&layout=compact" alt="nessalive" /></p>
 
-<p>&nbsp;<img align="center" src="https://www.linkedin.com/in/vanessa-oliveira-n-s/" alt="nessalive" /></p>
-
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/vanessa oliveira](https://www.linkedin.com/in/vanessa-oliveira-n-s/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessa oliveira" height="30" width="40" /></a>
