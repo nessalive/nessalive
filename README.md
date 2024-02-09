@@ -17,6 +17,7 @@
 ### ❤️ Objetivos de Emprego 👩‍💻
 
 - [x] Desenvolvedora IA (atualmente)
+- [ ] Desenvolvedora de Jogos
 - [ ] Desenvolvedora Front End
 - [x] Design ( Design write)
 - [ ] Escritora
