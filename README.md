@@ -1,4 +1,4 @@
-<div backgroundcolor="grey">
+<div style="background-color: grey;">
 <h1 align="left">Olá👋, me chamo Vanessa Oliveira</h1>
 <h3 align="left">Apaixonada por Desenvolvimento</h3>
 
