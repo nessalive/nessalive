@@ -1,7 +1,7 @@
-<h1 align="center">Olá👋, me chamo Vanessa Oliveira</h1>
-<h3 align="center">Apaixonada por Desenvolvimento</h3>
+<h1 align="left">Olá👋, me chamo Vanessa Oliveira</h1>
+<h3 align="left">Apaixonada por Desenvolvimento</h3>
 
-#### ❤️ Gosta-se e Faz 🌻
+<h4 align = "left">❤️ Gosta-se e Faz 🌻</h4>
 - 📓 Textos
 - 🍰 Comida
 - 🐈 Gatos
