@@ -18,5 +18,4 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/vanessa oliveira](https://www.linkedin.com/in/vanessa-oliveira-n-s/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessa oliveira" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/vanessa-oliveira-n-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessa oliveira" height="30" width="40"/></a></p>
