@@ -39,5 +39,5 @@
 </div>
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/hugs-cute-anime-spy-x-family-gif-26846042" width="350">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
